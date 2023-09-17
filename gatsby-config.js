@@ -9,7 +9,7 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Bryan Robb`,
     author: {
       name: `Static CMS`,
       summary: `. A Git-based CMS for Static Site Generators`,
